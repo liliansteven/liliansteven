@@ -17,7 +17,29 @@
 - 🤓 My hobbies are **Travelling, Sports (Gymnastic & Yoga).**
 
  <hr>
-
+## Languages and Tools 🛠:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+  <img src="https://img.icons8.com/office/40/000000/react.png"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
+ </p>
+ 
+ ## Connect with me 🙋🏻‍♀️:
+ 
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/lilian-astfanous-21aa86208/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:11410120200404@stud.cu.edu.eg)
+[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/lilian_steven)
+[![Kaggle](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png)](https://www.kaggle.com/lilianastfanous)
 ## My Github statistics 🚀:
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliansteven)](https://github.com/anuraghazra/github-readme-stats)
 
