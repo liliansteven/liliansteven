@@ -9,6 +9,8 @@
 
 <hr>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sohailadiab&label=Profile%20views&color=0e75b6&style=flat" alt="sohailadiab" /> </p>
+
 ## 💁‍♂️ About me
 - 🏫 From Cairo, Egypt
 - 👩🏻‍💻 Student at **Faculty of Computers and Artificial Intelligence** and **Artificial Intelligence (major)**- Cairo University
