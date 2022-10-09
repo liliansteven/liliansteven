@@ -41,7 +41,7 @@
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/lilian_steven)
 [![Kaggle](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png)](https://www.kaggle.com/lilianastfanous)
 ## My Github statistics 🚀:
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliansteven)](https://github.com/anuraghazra/github-readme-stats)
+![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliansteven)(https://github.com/anuraghazra/github-readme-stats)
 
 ![Lilian's github streak](https://github-readme-streak-stats.herokuapp.com/?user=liliansteven&theme=material-palenight&include_all_commits=true&count_private=true)
 
