@@ -18,8 +18,10 @@
 - 🧠 I'm a **Competitive programmer** , **quick learner**, a **team player**, a **good listener**, and love **helping others**.
 - 🤓 My hobbies are **Travelling, Sports (Gymnastic & Yoga).**
 
- <hr>
+<hr>
+ 
 ## Languages and Tools 🛠:
+
 <p>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
