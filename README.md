@@ -46,6 +46,8 @@
 [![Kaggle](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png)](https://www.kaggle.com/lilianastfanous)
 ## My Github statistics 🚀:
 
+![Lilian's github stats](https://github-readme-stats.vercel.app/api?username=liliansteven&show_icons=true&theme=material-palenight)
+
 ![Lilian's github streak](https://github-readme-streak-stats.herokuapp.com/?user=liliansteven&theme=material-palenight&include_all_commits=true&count_private=true)
 
 ![Lilian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliansteven&theme=material-palenight&layout=compact)
