@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" alt="liliansteven" /> </p>
 
 <p align="center">
-    <img src="AI3.jpg" width="900">
+    <img src="AI3.jpg" width="800">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Highly motivated and dedicated undergraduate student with a strong passion for a
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
 </p>
 <p align="center">
-My hobbies are **Travelling, Sports (Calisthenics & Yoga)🤓.
+My hobbies are Travelling, Sports (Calisthenics & Yoga)🤓.
 </p>
 <p align="center">
 On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas. 
